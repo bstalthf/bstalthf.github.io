@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bstalthf.github.io/sitemap.html
+Sitemap: https://bstalthf.github.io/app/sitemap.html
+Sitemap: https://bstalthf.github.io/assets/sitemap.html
+Sitemap: https://bstalthf.github.io/includes/sitemap.html
+Sitemap: https://bstalthf.github.io/src/sitemap.html
